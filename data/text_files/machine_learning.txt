@@ -1,0 +1,8 @@
+
+AI Overview
+Machine learning, a subset of AI, enables systems to learn from data to improve performance, powering many modern technologies. It involves building models based on patterns, typically categorized into supervised, unsupervised, and reinforcement learning. While supervised learning uses labeled data, unsupervised techniques uncover hidden structures, and reinforcement learning uses trial-and-error for optimization. 
+
+citation: thaddeus-segura.com
+
+
+The development process involves data preprocessing, selecting suitable algorithms for tasks like prediction or classification, training, and evaluation. Once trained, these models make predictions on new data, though they raise significant ethical concerns regarding bias and employment impacts.
