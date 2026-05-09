@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+data/pdf
+data/text_files
+TODO.md
+.DS_Store
 
 # Virtual environments
 .venv
